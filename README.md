@@ -9,7 +9,8 @@
     FASTQC, GALAXY, PRINTSEQ. 
     a) ¿Cuántas secuencias tiene cada lectura?
     b) ¿Cuál es el porcentaje de GC predicho de acuerdo al análisis de FastQC?
-    c) Explica como es la calidad de la lecturas y que regiones son necesarias quitar para realizar el trimming 
+    c) ¿Cuál es el tamaño de las lecturas?
+    d) Explica como es la calidad de la lecturas y que regiones son necesarias quitar para realizar el trimming 
     
     2. Realiza el trimming de las secuencias con los siguientes parametros de Q30, HEADCROP:20, MINLEN:75 usando Trimmomatic
     También puedes usar Trimgalore en Galaxy. 
